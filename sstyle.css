@@ -1,0 +1,261 @@
+*{
+    box-sizing: border-box;
+    font-family: 'Work Sans', sans-serif;
+}
+body{
+    text-align: center;
+
+}
+header{
+background: #87509c;
+color: white;
+
+}
+
+.button{
+
+    background: #eb7d4b;
+    padding: 20px 60px;
+    color: white;
+    margin: 30px;
+    border: none;
+}
+.button :hover{
+    box-shadow: 2px 2px 2px #c86a40;
+   border-radius: 5px;
+
+    
+}
+
+section{
+    padding: 75px;
+    text-align: center;
+}
+
+.service{
+    background: #17c2a4;
+
+}
+.underline{
+    width: 80px;
+    border-bottom: 4px solid rgba(36, 32, 32, 0.39);
+    margin: 10px auto;
+}
+
+<!-- team-section-->
+.team{
+    background: #e7f1f8;
+}
+.team-imge{
+    width: 120px;
+    height: 120px;
+    border-radius: 100%;
+
+}
+
+.team-img{
+    width: 100px;
+    height: 100px;
+    border-radius: 100%;
+}
+
+.social i {
+    background: #e7f1f8;
+    margin: 0px 5px;
+    padding: 10px;
+    border-radius: 100%;
+    color: rgb(66, 25, 216);
+}
+
+.skill-part{
+    margin-bottom: 27px;
+    
+}
+
+
+.skill-pars{
+    font-size: 50px;
+    position: absolute;
+    margin-left: 80px;
+    margin-top: -137px;
+    
+}
+.portfolio {
+    background: #ffdd99;
+}
+
+.b2{
+  background: white;
+  padding: 5px 30px;
+  color: black;
+  font-weight: bolder;
+  border: none;
+}
+
+.b1{
+    background: #ebc985;
+    padding: 5px 30px;
+    color: white
+    font-weight: bolder;
+    border: none;
+}
+
+.b23{
+ background: #17c2a4;
+ color: white;
+ padding: 17px 30px;
+ margin: 25px  10px 10px 10px;
+}
+.about-write{
+    text-align: left;
+    padding-top: 25px;
+    margin: 10px;
+}
+
+.img-fluid2 {
+    width: 200px;
+    height: 200px;
+    border-radius: 100%;
+    margin: 10px;
+
+
+}
+.about p{
+    font-size: 11px;
+    color: white;
+    
+
+}
+.p2-c{
+    text-align: center;
+
+}
+
+.about h5{
+    
+    color: white;
+    text-align: left;
+
+}
+
+
+.about h6{
+    font-size: 12px;
+    color:#ffdd99;
+
+}
+    
+  
+.h2-b{
+    font-weight: bolder;
+}
+
+
+}
+h1{
+color: white;
+margin: 20px;
+
+}
+h2{
+
+}
+
+}
+h3{
+
+}
+.t-h4{
+    color: #55c5ea;
+    font-size: 10px;
+
+}
+.about{
+    background: #d74680;
+
+}
+.about-in {
+display: inline-block;
+float: left;
+}
+.media{
+    display: inline-block;
+float: left;
+}
+
+}
+   
+    
+}
+h5{
+
+}
+h6{
+
+}
+.contract{
+    background: #3c5499;
+}
+.form-group{
+    margin: 9px;
+    display: inline-block;
+    background: #273a71;
+}
+.form-group input{
+   
+    background: #273a71;
+    color: wheat;
+    font-weight: bolder;
+    text-align: center;
+}
+.area textarea{
+    background: #273a71;
+    width: 50%;
+    text-align: center;
+    margin: 0 auto;
+  
+
+}
+area button  {
+    background: #30bae7;
+  
+    text-align: center;
+    padding: 30px;
+    
+
+}
+.pt{
+    margin-top: 30px;
+    background: #30bae7;
+  
+    text-align: center;
+    padding: 10px 17px;
+    color: white;
+}
+input::placeholder{
+    color: violet;
+}
+footer{
+    background: #344b8e;
+}
+@media screen and (max-width: 600px) {
+   
+    
+    body {
+        font-size: 50px;
+        position: absolute;
+        margin-left: -20px;
+        margin-top: -137px;
+     
+    }
+    br{
+        display: none;
+    }
+    .skill-part{
+        margin-bottom: 27px;
+        margin-left: 30px;
+    }
+    .
+     }
+   
+    }
